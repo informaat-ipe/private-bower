@@ -1,12 +1,12 @@
 {
     "name": "private-bower",
-    "version": "0.5.5",
+    "version": "0.5.6-custom",
     "author": "Hacklone <toakak@gmail.com>",
     "description": "A simple private bower registry",
     "main": "./lib/private-bower",
     "repository": {
         "type": "git",
-        "url": "git://github.com/Hacklone/private-bower.git"
+        "url": "git://github.com/informaat-ipe/private-bower.git"
     },
     "keywords": [
         "bower",
